@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lokesh--appadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-appadi)
-[![GitHub](https://img.shields.io/badge/GitHub-appadilokesh04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/appadilokesh04-source)
+[![GitHub](https://img.shields.io/badge/GitHub-appadilokesh04-source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/appadilokesh04-source)
 [![Email](https://img.shields.io/badge/Email-appadilokesh04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appadilokesh04@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
@@ -143,7 +143,7 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 |-----------|----------|----------------|
 | 🥈 2nd Prize | 24-Hour National Hackathon | CMR College (100+ teams) |
 | 🥉 3rd Prize | 24-Hour National Hackathon | KL University |
-| 4️) 4th Place | 24-Hour National Hackathon | Vasavi College |
+| 4th Place | 24-Hour National Hackathon | Vasavi College |
 
 > **Consistent podium performer — top 3 finishes in 3 out of 3 national hackathons** under extreme time pressure.
 
@@ -163,12 +163,12 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=appadilokesh04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appadilokesh04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=appadilokesh04-source&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appadilokesh04-source&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=appadilokesh04&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=appadilokesh04-source&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
@@ -179,7 +179,7 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-appadi)
-[![GitHub](https://img.shields.io/badge/Explore%20my%20repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/appadilokesh04)
+[![GitHub](https://img.shields.io/badge/Explore%20my%20repos-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/appadilokesh04-source)
 [![Email](https://img.shields.io/badge/Drop%20me%20an%20email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appadilokesh04@gmail.com)
 
 <br/>
