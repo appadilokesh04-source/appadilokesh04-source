@@ -5,7 +5,7 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lokesh--appadi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lokesh-appadi)
-[![GitHub](https://img.shields.io/badge/GitHub-appadilokesh04-source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/appadilokesh04-source)
+[![GitHub](https://img.shields.io/badge/GitHub-appadilokesh04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/appadilokesh04-source)
 [![Email](https://img.shields.io/badge/Email-appadilokesh04%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:appadilokesh04@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Hyderabad%2C%20India-34A853?style=for-the-badge&logo=googlemaps&logoColor=white)]()
 
