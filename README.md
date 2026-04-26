@@ -17,34 +17,34 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a **Backend Engineer & DevOps enthusiast** from Hyderabad, India — currently pursuing B.Tech in **Electronics & Communication Engineering** at MGIT (2023–2027). I've delivered **3 production-grade backend systems** across internships, following agile SDLC practices, with measurable impact:
 
-- ⚡ Cut API latency by **60%** using Redis caching
-- 📦 Reduced data-retrieval payloads by **40%** with server-side filtering
-- 🚀 Eliminated **100% of manual deployment steps** via CI/CD automation
-- 🏆 Podium finisher at **3 national hackathons** (100+ competing teams each)
+-  Cut API latency by **60%** using Redis caching
+-  Reduced data-retrieval payloads by **40%** with server-side filtering
+-  Eliminated **100% of manual deployment steps** via CI/CD automation
+-  Podium finisher at **3 national hackathons** (100+ competing teams each)
 
 Beyond software, I've built **hardware projects from the ground up** — soldering ICs, working with WiFi modems for audio transmission, and integrating NLP into home automation systems.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 💻 Languages & Backend
+###  Languages & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
 
-### ☁️ DevOps & Cloud
+###  DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -54,21 +54,21 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-### 🤖 ML / Data
+###  ML / Data
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 🔧 Tools & Practices
+###  Tools & Practices
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-009FDA?style=for-the-badge&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 💼 Work Experience
+##  Work Experience
 
-### 🎬 Hybrid Movie Recommendation Engine — Backend Intern
+###  Hybrid Movie Recommendation Engine — Backend Intern
 `Jan 2026 – Apr 2026` | `FastAPI · scikit-surprise · scikit-learn · MySQL · Redis · Docker · Helm · Minikube`
 
 > Engineered a hybrid recommendation engine (SVD + TF-IDF) on the MovieLens 100K dataset, following agile sprint cycles.
@@ -80,7 +80,7 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 
 ---
 
-### 🛒 E-Commerce Backend — Backend Intern
+###  E-Commerce Backend — Backend Intern
 `Nov 2025 – Dec 2025` | `FastAPI · SQLAlchemy · MySQL · JWT`
 
 > Delivered a production-grade e-commerce backend for multi-role users (buyer, seller, admin) within a 6-week agile cycle.
@@ -91,9 +91,9 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 
 ---
 
-## 🔨 Projects
+##  Projects
 
-### ☁️ Cloud Deployment & CI/CD Pipeline Automation
+###  Cloud Deployment & CI/CD Pipeline Automation
 `Docker · GitHub Actions · AWS EC2 · Render · Nginx · Kubernetes · Helm · Prometheus · Grafana`
 
 - Built an **end-to-end CI/CD pipeline** with GitHub Actions — 100% of manual deployment steps eliminated
@@ -103,7 +103,7 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 
 ---
 
-### ♿ Smart Inclusion App — Accessibility Platform
+###  Smart Inclusion App — Accessibility Platform
 `Flask · MySQL · REST APIs · Location Services` | 🥈 **2nd Prize — CMR College National Hackathon (100+ teams)**
 
 - Won **2nd prize** at a 24-hour national hackathon — fully functional backend shipped within the time constraint
@@ -113,9 +113,9 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 
 ---
 
-## 🔩 Hardware Projects
+##  Hardware Projects
 
-### 📡 Audio Transmitter (No Microcontroller)
+###  Audio Transmitter (No Microcontroller)
 `IC Design · Soldering · WiFi Modem · Audio Engineering`
 
 > Built a wireless audio transmitter entirely from discrete components — no microcontroller required.
@@ -126,7 +126,7 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 
 ---
 
-### 🏠 Home Automation — Speech Control System
+###  Home Automation — Speech Control System
 `NLP · Python · Multilingual Processing · IoT`
 
 > Contributed the NLP layer for a voice-controlled home automation system that understands commands in any language.
@@ -137,21 +137,21 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 
 ---
 
-## 🏆 Achievements & Recognition
+##  Achievements & Recognition
 
-| 🥇 Award | 🎓 Event | 🏛️ Institution |
+|  Award |  Event |  Institution |
 |-----------|----------|----------------|
 | 🥈 2nd Prize | 24-Hour National Hackathon | CMR College (100+ teams) |
 | 🥉 3rd Prize | 24-Hour National Hackathon | KL University |
-| 4️⃣ 4th Place | 24-Hour National Hackathon | Vasavi College |
+| 4️) 4th Place | 24-Hour National Hackathon | Vasavi College |
 
 > **Consistent podium performer — top 3 finishes in 3 out of 3 national hackathons** under extreme time pressure.
 
 ---
 
-## 🎓 Education
+##  Education
 
-| 📚 Qualification | 🏛️ Institution | 📅 Year | 🎯 Score |
+|  Qualification |  Institution |  Year |  Score |
 |-----------------|----------------|---------|---------|
 | B.Tech — ECE | Mahatma Gandhi Institute of Technology, Hyderabad | 2023 – 2027 | CGPA: 7.5/10 |
 | Intermediate (Class XII) | Sri Chaitanya Junior College, Hyderabad | 2021 – 2023 | 89% |
@@ -159,7 +159,7 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -174,7 +174,7 @@ Beyond software, I've built **hardware projects from the ground up** — solderi
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <div align="center">
 
